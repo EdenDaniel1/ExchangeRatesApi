@@ -60,7 +60,7 @@ exchangeRates.json
 
 Future improvements could include:
 
-- Dependency injection for `HttpClient`
+- Dependency injection
 - Automated tests (unit & integration)
 - Containerization (Docker support)
 
