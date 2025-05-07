@@ -1,0 +1,6 @@
+@RatePrinter_HostAddress = http://localhost:5153
+
+GET {{RatePrinter_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

@@ -1,0 +1,33 @@
+# Build results
+bin/
+obj/
+
+# Rider project settings
+.idea/
+
+# User-specific files
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# VS Code project settings (if someone opens in VS Code)
+.vscode/
+
+# Logs
+*.log
+
+# Environment files
+.env
+
+# Rider cache files
+.idea/
+
+# MacOS system files
+.DS_Store
+
+# Windows system files
+Thumbs.db
+
+# Any other temp files
+*.swp

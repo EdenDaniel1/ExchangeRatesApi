@@ -1,0 +1,27 @@
+[
+  {
+    "PairName": "USDILS",
+    "Rate": 1.2345,
+    "LastUpdateTime": "2025-05-07T14:27:20.826236Z"
+  },
+  {
+    "PairName": "EURGBP",
+    "Rate": 1.2345,
+    "LastUpdateTime": "2025-05-07T14:27:21.035747Z"
+  },
+  {
+    "PairName": "EURILS",
+    "Rate": 1.2345,
+    "LastUpdateTime": "2025-05-07T14:27:21.035751Z"
+  },
+  {
+    "PairName": "EURUSD",
+    "Rate": 1.2345,
+    "LastUpdateTime": "2025-05-07T14:27:21.035752Z"
+  },
+  {
+    "PairName": "GBPILS",
+    "Rate": 1.2345,
+    "LastUpdateTime": "2025-05-07T14:27:21.21282Z"
+  }
+]
